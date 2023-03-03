@@ -22,3 +22,4 @@ Aplicação WEB:
 - [`React`](https://pt-br.reactjs.org/)
 - [`Typescript`](https://www.typescriptlang.org/docs/)
 - [`Styled-components`](https://styled-components.com/)
+- [`React-router`](https://reactrouter.com/en/main)
