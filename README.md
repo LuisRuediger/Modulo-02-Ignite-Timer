@@ -1,4 +1,4 @@
-# Ignite Timer <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-lightgrey"/>
+# Ignite Timer <img align="right" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-lightgrey"/>
 
 O projeto do Contador Pomodoro é uma aplicação simples e eficiente desenvolvida para ajudar as pessoas a aumentarem sua produtividade e gerenciarem melhor o tempo. <br/>
 > Para ver o projeto rodando você pode acessar este [Link](https://ignite-timer-delta-ashen.vercel.app/).
